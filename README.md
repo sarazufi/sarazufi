@@ -3,7 +3,7 @@
 I am a **Computer Science Student** at the **University of Waterloo**, interested in Software development and AI!
 
 - 🔭 I’m currently working on my personal website
-- 🤹 My Skills: C/C++, HTML, CSS, Javascript, Racket, Python, Racket, Arduino, XML
+- 🤹 My Skills: C/C++, HTML, CSS, Racket, Python, Racket, XML
 - 😄 Pronouns: she/her
 - 📫 How to reach me: [szufisha@uwaterloo.ca](mailto:szufisha@uwaterloo.ca)!
 
