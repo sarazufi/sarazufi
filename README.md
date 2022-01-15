@@ -11,6 +11,6 @@ I am a **Computer Science Student** at the **University of Waterloo**, intereste
 [![Outlook Badge](https://img.shields.io/badge/-szufisha-yellow?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:szufisha@uwaterloo.ca)](mailto:szufisha@uwaterloo.ca)
 #
 
-[![Sara's Github Stats](https://github-readme-stats.vercel.app/api?username=sarazufi&hide=contribs,issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/szufisha/github-readme-stats)
+[![Sara's Github Stats](https://github-readme-stats.vercel.app/api?username=sarazufi&hide=contribs,issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarazufi&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/sarazufi/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarazufi&layout=compact&theme=nightowl&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
